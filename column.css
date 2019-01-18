@@ -1,0 +1,94 @@
+/* Sophie Marini
+*8 January 2019
+*Lab: c13 fluid layuot exercise*/
+
+*{margin:0; 
+    padding:0;}
+/* body structure and colors*/
+body {
+    width: 1000px;
+    background-color: white;
+    margin: 15px auto;
+    border: 1px solid black;
+    background-color: white;
+}
+h1 {
+    padding: 10px;
+    
+    /* header structure and colors*/
+}
+header {
+    border-bottom: 2px solid black;
+    background-color:indianred;
+   
+    /* sidebar structure */
+}
+#sidebarA {
+    width: 220px;
+    float: left;
+    text-align: center;
+    background-color: white;
+}
+/* main structure and colors*/
+main{
+    width: 54%;
+    float: left;
+    border-right: 2px solid black;
+    background-color: white;
+    border-left: 2px solid black;
+    margin: 5px;
+    
+}
+/* sidebar structure and colors*/
+#sidebarB{
+    width:200px;
+    float: left;
+    text-align: center;
+    background-color: white;
+    margin-left: 7px;
+    
+    
+   }
+/* footer structure and colors*/
+footer{
+    clear: both;
+    border-top: 2px solid black;
+    background-color: lightblue;
+}
+
+/* pictures*/
+#photo1 {
+    float:left;
+    width:250px;
+    height: px;200
+    margin: 5px;
+    margin-right: 20px;
+     border: 2px solid black;
+    
+}
+#firstp {
+    margin: 2px;
+}
+p { 
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    font-family:sans-serif;
+}
+#flag {
+    width: 170px;
+    border: 2px solid black;
+}
+h5 {
+    float:right;
+}
+li {
+    list-style-type: none;
+}
+h1 {
+    font-family: sans-serif;
+}
+b{
+    font-family: serif;
+}
